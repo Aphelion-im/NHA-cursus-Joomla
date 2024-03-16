@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE install
+  PUBLIC "-//Joomla! 3.2//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+
+
+
+<extension version="3.0" type="template" client="site">
+
+  <name>test</name>
+
+  <version>1.1</version>
+
+  <creationDate>14/07/2015</creationDate>
+
+  <author>Jouw naam</author>
+
+  <authorEmail>jouwemailadres</authorEmail>
+
+  <copyright>Geen beperkingen</copyright>
+
+  <description>Testsite cursus NHA Joomla</description>
+
+
+
+
+
+  <files>
+
+    <filename>index.php</filename>
+
+    <folder>css</folder>
+
+    <folder>images</folder>
+
+  </files>
+
+
+
+
+
+  <positions>
+
+    <position>debug</position>
+
+    <position>logo</position>
+
+    <position>zoek</position>
+
+    <position>navigatie</position>
+
+    <position>bovencontent</position>
+
+    <position>ondercontent</position>
+
+    <position>zijkolom</position>
+
+    <position>footer</position>
+
+  </positions>
+
+  <config>
+
+  </config>
+
+</extension>

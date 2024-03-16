@@ -1,0 +1,65 @@
+body {
+  background: #d1d1d1;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background: #FFF;
+  padding: 10px;
+
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h3 {
+
+  color: #08C;
+  font-family: 'Roboto', cursive;
+
+}
+
+
+
+
+
+.nav-pills a {
+
+  margin: 0 auto;
+  color: #000;
+
+}
+
+
+.kolom1 {
+  float: left;
+  width: 670px;
+}
+
+.kolom2 {
+  float: right;
+  width: 196px;
+}
+
+.footer {
+  clear: both;
+}
+
+.kolom1,
+.kolom2,
+.footer,
+.header,
+.navigatie {
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+
+
